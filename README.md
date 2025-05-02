@@ -1,6 +1,6 @@
-# Compilador en C con Lex y Bison
+# Compilador en C con Flex y Bison
 
-Este proyecto es un compilador escrito en **C**, utilizando las herramientas **Lex (Flex)** y **Bison** para el análisis léxico y sintáctico, respectivamente.
+Este proyecto es un compilador escrito en **C**, utilizando las herramientas **Flex** y **Bison** para el análisis léxico y sintáctico, respectivamente.
 
 ## 📦 Requisitos
 
